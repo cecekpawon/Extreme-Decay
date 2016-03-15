@@ -34,7 +34,7 @@
 | 19 | Teror | 1:30 | DL |
 | 20 | Amoral | 1:06 | DL |
 | 21 | Terampas Atau Tercerabut | 0:42 | DL |
-| 22 | Pressure | 1:10 | DL |
+| 22 | Pressure | 1:10 | [DL](22 - Pressure.gpx?raw=true) |
 | 23 | Eksis Tak Terhenti | 2:21 | DL |
 | 24 | Terror Reign | 0:34 | DL |
 | 25 | Politik | 1:07 | DL |
