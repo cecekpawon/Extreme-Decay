@@ -21,20 +21,20 @@
 | 6 | Decay In Your Mind | 0:17 | DL |
 | 7 | Konfrontasi | 0:54 | DL |
 | 8 | We Are Not The Center Of This Funny Universe | 1:01 | DL |
-| 9 | Invisible Chain | 0:57 | [DL](09. Invisible Chain.gpx?raw=true) |
+| 9 | Invisible Chain | 0:57 | [DL](09.%20Invisible%20Chain.gpx?raw=true) |
 | 10 | Realize Peace This World | 0:41 | DL |
 | 11 | Fighting For Self - Respect | 0:54 | DL |
 | 12 | What You're Fighting For? | 1:06 | DL |
 | 13 | Thanks | 1:01 | DL |
 | 14 | Wonderful Vacation Ship | 1:37 | DL |
-| 15 | Euphoria Of Mass Brutality | 1:41 | [DL](15. Euphoria Of Mass Brutality.gpx?raw=true) |
+| 15 | Euphoria Of Mass Brutality | 1:41 | [DL](15.%20Euphoria%20Of%20Mass%20Brutality.gpx?raw=true) |
 | 16 | Hard But Coreless | 0:52 | DL |
-| 17 | Unrest Conditions | 1:03 | [DL](17. Unrest Conditions.gpx?raw=true) |
+| 17 | Unrest Conditions | 1:03 | [DL](17.%20Unrest%20Conditions.gpx?raw=true) |
 | 18 | For Sale (What's Left) | 1:28 | DL |
 | 19 | Teror | 1:30 | DL |
 | 20 | Amoral | 1:06 | DL |
 | 21 | Terampas Atau Tercerabut | 0:42 | DL |
-| 22 | Pressure | 1:10 | [DL](22. Pressure.gpx?raw=true) |
+| 22 | Pressure | 1:10 | [DL](22.%20Pressure.gpx?raw=true) |
 | 23 | Eksis Tak Terhenti | 2:21 | DL |
 | 24 | Terror Reign | 0:34 | DL |
 | 25 | Politik | 1:07 | DL |
