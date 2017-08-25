@@ -22,7 +22,7 @@
 | 7 | Konfrontasi | 0:54 | DL |
 | 8 | We Are Not The Center Of This Funny Universe | 1:01 | DL |
 | 9 | Invisible Chain | 0:57 | [DL](09.%20Invisible%20Chain.gpx?raw=true) |
-| 10 | Realize Peace This World | 0:41 | DL |
+| 10 | Realize Peace This World | 0:41 | [DL](10.%20Realize%20Peace%20This%20World.gpx?raw=true) |
 | 11 | Fighting For Self - Respect | 0:54 | DL |
 | 12 | What You're Fighting For? | 1:06 | DL |
 | 13 | Thanks | 1:01 | DL |
